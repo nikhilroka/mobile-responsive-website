@@ -16,8 +16,9 @@ label{
 p{
     font-size: 28px;
     line-height: 1.2;
+}
     
-    article p{
+article p {
         font-size: 35px;
         padding: 20px;
     }
